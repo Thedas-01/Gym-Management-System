@@ -1,7 +1,7 @@
 # Gym-Management-System
 Fitness Base System
 
-# MANSA FITNESS UNIVERSITY PROJECT - ITP MODULE
+# MANSA FITNESS UNIVERSITY PROJECT 
 
 
 ## Table of Contents
